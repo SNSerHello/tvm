@@ -37,6 +37,7 @@ dependencies:
   - scipy
   - pillow
   - cudatoolkit
+  - cudnn
   - ipython
   - pip
   - python=3.8
