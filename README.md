@@ -1,3 +1,10 @@
+## Build TVM environment by conda, and refer to [Building with a Conda Environment](https://tvm.apache.org/docs/install/from_source.html)
+
+```
+$ conda env create --file conda/build-environment.yaml
+$ conda activate py38-tvm
+```
+
 <!--- Licensed to the Apache Software Foundation (ASF) under one -->
 <!--- or more contributor license agreements.  See the NOTICE file -->
 <!--- distributed with this work for additional information -->
