@@ -16,7 +16,7 @@
 # under the License.
 
 # Build environment that can be used to build tvm.
-name: tvm-build
+name: py38-tvm
 
 # The conda channels to lookup the dependencies
 channels:
